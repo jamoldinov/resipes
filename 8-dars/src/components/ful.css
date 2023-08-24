@@ -1,0 +1,11 @@
+.ca {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.we {
+   
+    object-fit: cover;
+    width: 250px;
+    height: 200px;
+}
